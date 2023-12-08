@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmed</h1>
-<h3 align="center">A Passionate Mern Stack Developer from Pakistan</h3>
+<h3 align="center">A Passionate Mern Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshi1233&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshi1233" /> </p>
 
