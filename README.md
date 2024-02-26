@@ -61,6 +61,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/zeeshi1233/zeeshi1233/output/snake.svg" alt="Snake animation" />
 
 ###
